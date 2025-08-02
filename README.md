@@ -1,87 +1,100 @@
-<h1 align="center">Hi, I'm Kishore Sachin J G 👋</h1>
+<h1 align="center">Hi 👋, I'm Kishore Sachin J G</h1>
+<h3 align="center">🚀 Aspiring AI Engineer | Web & ML Developer | CSE-AI @ Amrita</h3>
+
 <p align="center">
-  <b>AI Engineer | CSE-AI Student | Developer</b><br>
-  <i>B.Tech in Computer Science & Engineering (AI Specialization), Amrita University</i>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+In+Progress;Web+Dev+|+ML+Engineer;Open+Source+Contributor;Always+Learning+New+Tech...&center=true&width=500&height=45">
 </p>
 
 ---
 
-### 🧠 About Me
-- 🔍 Passionate about AI/ML, NLP, and intelligent systems
-- 🌿 Working on projects in AgriTech, Biotech, OCR, and EdTech
-- 📊 Loves visualizing data and building real-time intelligent apps
-- 🔭 Currently focused on AI-enhanced productivity tools and research systems
+### 🎓 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (AI Specialization)  
+- 📚 Final Year at Amrita University  
+- 🤖 Passionate about AI, ML, Web, OCR, and Cloud  
+- 🌱 Always learning & building real-world AI tools  
+- 💡 Creator of AI-powered expense apps, RNA tools, EMG detectors, and more
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Skills & Learning Tracker
 
-- 🔍 **Plagiarism Detection using BERT** – Real-time semantic comparison via Flask  
-- 🧾 **AI Expense Tracker** – Multilingual React Native app using Google Cloud & Firebase  
-- 🌿 **Bruxism Detection** – EMG signal processing from EDF files with ML classification  
-- 🧬 **RNA Structure Predictor** – Tkinter GUI + Nussinov + Web-based visualization  
-- 📱 **QR Menu System** – Interactive digital menu interface for restaurants
+#### 📊 Learning Progress
+Python ██████████████████████ 95%
+HTML & CSS ████████████████████░░ 85%
+JavaScript █████████████████░░░░ 80%
+ML Libraries ███████████████░░░░░░ 75%
+DevOps Tools ██████████████░░░░░░░ 70%
+C & C++ █████████████░░░░░░░░ 60%
 
----
 
-### 💻 Tech Stack
+#### 🚀 Tools & Frameworks
 
-#### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
-
-#### 🚀 Frameworks & Libraries
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-#### 🧠 AI/ML Tools
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![Tesseract OCR](https://img.shields.io/badge/-Tesseract-4285F4?style=for-the-badge&logo=tesseract-ocr&logoColor=white)
-
-#### 🗃️ DevOps & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+**Web & App:** Flask | FastAPI | Streamlit | React Native  
+**ML & AI:** NumPy | Pandas | Scikit-learn | TensorFlow  
+**DevOps & Cloud:** Git & GitHub | Docker | Firebase  
+**Extras:** BERT | Tesseract OCR | Lottie | Tkinter GUI  
 
 ---
 
-### 📚 Language Learning Tracker
+### 🔥 Animated Skills Overview
 
-| Language | Progress |
-|----------|----------|
-| 🐍 Python | ████████████████▌ 95% |
-| ⚛️ JavaScript | ████████████▏ 80% |
-| 🌐 HTML/CSS | ███████████ 75% |
-| 🧠 ML Libraries | ███████████▍ 85% |
-| 📦 C/C++ | ████████▍ 60% |
-| 📁 DevOps + Git | █████████▌ 70% |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,docker,flask,fastapi,mysql,tensorflow,github" alt="Tech Stack Icons" />
+</p>
 
----
-
-### 🌍 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin12054&layout=compact&theme=transparent&langs_count=10&hide=Jupyter%20Notebook" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin12054&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+### 🧠 My Top AI & ML Projects
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sachin11jg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-sachin-j-g-bb1897355)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white)](https://github.com/Sachin190511/futureverse-echo-portal.git)
+| 🚀 Project Name             | 🔍 Description                                      |
+|----------------------------|-----------------------------------------------------|
+| Plagiarism Detector        | Real-time semantic comparison using BERT + Flask    |
+| Bruxism Detection (EMG)    | ML-based detection using RMS, Zero Crossings, Variance |
+| AI Expense Tracker         | OCR with Tamil + English in React Native            |
+| RNA Structure Predictor    | Web + Tkinter with Nussinov Algorithm Visualization |
+| Restaurant QR Menu         | Fully animated menu with HTML/CSS/JS                |
 
 ---
 
-*Thanks for visiting! Feel free to explore my repositories and connect.* 🚀
+### 🌐 Portfolio & Links
+
+<p align="center">
+  <a href="mailto:sachin11jg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kishore-sachin-j-g-bb1897355">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sachin190511/futureverse-echo-portal.git">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 Currently Focusing On
+
+- 🧾 OCR + AI on multilingual documents  
+- 📲 Mobile-first AI apps using React Native  
+- 🧬 Bioinformatics Tools (RNA/Genome)  
+- 📦 Dockerizing ML apps for production  
+- 🧠 Deepening expertise in ML, NLP & Transformers  
+
+---
+
+### 🎉 Extra Goodies
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin12054&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Engineer+by+Mind+🧠;Creator+by+Heart+❤️;Learner+for+Life+📚" />
+</p>
+
+
