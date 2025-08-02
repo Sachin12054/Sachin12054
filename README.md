@@ -55,13 +55,12 @@
 ## 🔥 Animated Skills Overview
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,docker,flask,fastapi,mysql,tensorflow,github&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,docker,flask,fastapi,mysql,tensorflow,github" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin12054&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
-
 
 ---
 
