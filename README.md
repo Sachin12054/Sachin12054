@@ -52,13 +52,24 @@
 
 ### 🔥 Animated Skills Overview
 
-<p align="center">
+<style>
+  .hover-effect img {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .hover-effect img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<p align="center" class="hover-effect">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,docker,flask,fastapi,mysql,tensorflow,github" alt="Tech Stack Icons" />
 </p>
 
-<p align="center">
+<p align="center" class="hover-effect">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin12054&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
+
 
 ---
 
