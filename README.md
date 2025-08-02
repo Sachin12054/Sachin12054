@@ -19,37 +19,26 @@
 
 ### 🛠️ Skills & Learning Tracker
 
-<h3>📊 Learning Progress</h3>
+### 📊 Learning Progress (Animated)
 
-<p align="left">
-  <b>Python</b><br>
-  <img src="https://progress-bar.dev/95/?title=Python&width=300&color=21c55d" />
-</p>
+**Python (95%)**  
+<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar95.gif" width="400"/>
 
-<p align="left">
-  <b>HTML & CSS</b><br>
-  <img src="https://progress-bar.dev/85/?title=HTML%20%26%20CSS&width=300&color=facc15" />
-</p>
+**HTML & CSS (85%)**  
+<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar85.gif" width="400"/>
 
-<p align="left">
-  <b>JavaScript</b><br>
-  <img src="https://progress-bar.dev/80/?title=JavaScript&width=300&color=f97316" />
-</p>
+**JavaScript (80%)**  
+<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar80.gif" width="400"/>
 
-<p align="left">
-  <b>ML Libraries</b><br>
-  <img src="https://progress-bar.dev/75/?title=ML%20Libraries&width=300&color=3b82f6" />
-</p>
+**ML Libraries (75%)**  
+<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar75.gif" width="400"/>
 
-<p align="left">
-  <b>DevOps Tools</b><br>
-  <img src="https://progress-bar.dev/70/?title=DevOps%20Tools&width=300&color=8b5cf6" />
-</p>
+**DevOps Tools (70%)**  
+<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar70.gif" width="400"/>
 
-<p align="left">
-  <b>C & C++</b><br>
-  <img src="https://progress-bar.dev/60/?title=C%20%26%20C%2B%2B&width=300&color=ef4444" />
-</p>
+**C & C++ (60%)**  
+<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar60.gif" width="400"/>
+
 
 
 #### 🚀 Tools & Frameworks
