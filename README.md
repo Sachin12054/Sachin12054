@@ -19,17 +19,37 @@
 
 ### 🛠️ Skills & Learning Tracker
 
-#### 📊 Learning Progress
-<pre>
+<h3>📊 Learning Progress</h3>
 
-Python         ██████████████████████  95%
-HTML & CSS     ████████████████████░░  85%
-JavaScript     █████████████████░░░░░  80%
-ML Libraries   ███████████████░░░░░░░  75%
-DevOps Tools   ██████████████░░░░░░░░  70%
-C & C++        █████████████░░░░░░░░░  60%
+<p align="left">
+  <b>Python</b><br>
+  <img src="https://progress-bar.dev/95/?title=Python&width=300&color=21c55d" />
+</p>
 
-</pre>
+<p align="left">
+  <b>HTML & CSS</b><br>
+  <img src="https://progress-bar.dev/85/?title=HTML%20%26%20CSS&width=300&color=facc15" />
+</p>
+
+<p align="left">
+  <b>JavaScript</b><br>
+  <img src="https://progress-bar.dev/80/?title=JavaScript&width=300&color=f97316" />
+</p>
+
+<p align="left">
+  <b>ML Libraries</b><br>
+  <img src="https://progress-bar.dev/75/?title=ML%20Libraries&width=300&color=3b82f6" />
+</p>
+
+<p align="left">
+  <b>DevOps Tools</b><br>
+  <img src="https://progress-bar.dev/70/?title=DevOps%20Tools&width=300&color=8b5cf6" />
+</p>
+
+<p align="left">
+  <b>C & C++</b><br>
+  <img src="https://progress-bar.dev/60/?title=C%20%26%20C%2B%2B&width=300&color=ef4444" />
+</p>
 
 
 #### 🚀 Tools & Frameworks
