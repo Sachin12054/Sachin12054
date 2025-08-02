@@ -19,25 +19,37 @@
 
 ### 🛠️ Skills & Learning Tracker
 
-### 📊 Learning Progress (Animated)
+### 📊 Learning Progress (Animated Feel Using SVG)
 
-**Python (95%)**  
-<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar95.gif" width="400"/>
+<p align="left">
+  <b>Python (95%)</b><br>
+  <img src="https://svgshare.com/i/147h.svg" width="300">
+</p>
 
-**HTML & CSS (85%)**  
-<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar85.gif" width="400"/>
+<p align="left">
+  <b>HTML & CSS (85%)</b><br>
+  <img src="https://svgshare.com/i/147e.svg" width="300">
+</p>
 
-**JavaScript (80%)**  
-<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar80.gif" width="400"/>
+<p align="left">
+  <b>JavaScript (80%)</b><br>
+  <img src="https://svgshare.com/i/147g.svg" width="300">
+</p>
 
-**ML Libraries (75%)**  
-<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar75.gif" width="400"/>
+<p align="left">
+  <b>ML Libraries (75%)</b><br>
+  <img src="https://svgshare.com/i/147f.svg" width="300">
+</p>
 
-**DevOps Tools (70%)**  
-<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar70.gif" width="400"/>
+<p align="left">
+  <b>DevOps Tools (70%)</b><br>
+  <img src="https://svgshare.com/i/147d.svg" width="300">
+</p>
 
-**C & C++ (60%)**  
-<img src="https://raw.githubusercontent.com/Sachin12054/assets/main/bars/bar60.gif" width="400"/>
+<p align="left">
+  <b>C & C++ (60%)</b><br>
+  <img src="https://svgshare.com/i/147c.svg" width="300">
+</p>
 
 
 
