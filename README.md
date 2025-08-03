@@ -10,7 +10,7 @@
 ### 🎓 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (AI Specialization)  
-- 📚 Final Year at Amrita University  
+- 📚 Third Year at Amrita University  
 - 🤖 Passionate about AI, ML, Web, OCR, and Cloud  
 - 🌱 Always learning & building real-world AI tools  
 - 💡 Creator of AI-powered expense apps, RNA tools, EMG detectors, and more
