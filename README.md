@@ -21,14 +21,15 @@
 
 ### 📊 Progress Overview
 
-| **Skill** | **Mastery Level** | **Current Focus** |
-|----------|------------------|------------------|
-| 🐍 **Python** | `█████████████████████░` **95%** | Building ML/DL projects & automation tools |
-| 🎨 **HTML & CSS** | `██████████████████░░░` **85%** | Responsive design, animations, accessibility |
-| 💛 **JavaScript** | `████████████████░░░░` **80%** | React & interactive web apps |
-| 📘 **Machine Learning** | `███████████████░░░░` **75%** | Model optimization, MLOps |
-| ⚙️ **DevOps & Cloud** | `█████████████░░░░░░` **70%** | CI/CD pipelines, Docker, Render/Cloud deployment |
-| 🔧 **C & C++** | `███████████░░░░░░░░░` **60%** | DSA & performance-oriented programming |
+| **Skill** | **Level** | **Focus Area** |
+|----------|-----------|---------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> **Python** | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ **95%** | ML/DL projects, automation tools |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> **HTML & CSS** | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱ **85%** | Responsive design, animations, accessibility |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> **JavaScript** | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱ **80%** | React & interactive web apps |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24"/> **Machine Learning** | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱ **75%** | Model optimization, MLOps |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> **DevOps & Cloud** | ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱ **70%** | CI/CD pipelines, Docker, Render/Cloud deployment |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> **C & C++** | ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱ **60%** | DSA & performance-oriented programming |
+
 
 
 ---
