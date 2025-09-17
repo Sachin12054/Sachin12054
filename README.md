@@ -7,41 +7,32 @@
 
 ---
 
-### 🎓 About Me
+## 🎓 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI Specialization)  
-- 📚 Third Year at Amrita University  
-- 🤖 Passionate about AI, ML, Web, OCR, and Cloud  
-- 🌱 Always learning & building real-world AI tools  
-- 💡 Creator of AI-powered expense apps, RNA tools, EMG detectors, and more
+- 🎓 **B.Tech in Computer Science & Engineering (AI Specialization)**  
+- 📚 **Third Year at Amrita University**  
+- 🤖 Passionate about **AI, ML, Web, OCR, and Cloud**  
+- 🌱 Always learning & building **real-world AI tools**  
+- 💡 Creator of **AI-powered expense apps, RNA tools, EMG detectors, and more**
 
 ---
 
-### 🛠️ Skills & Learning Tracker
+## 🛠️ Skills & Learning Journey
 
-### 📊 Learning Progress
+### 📊 Progress Overview
 
-**🐍 Python (95%)**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+| **Skill** | **Mastery Level** | **Current Focus** |
+|----------|------------------|------------------|
+| 🐍 **Python** | ![95%](https://progress-bar.dev/95/?title=95%&width=200&color=4CAF50) | Building ML/DL projects & automation tools |
+| 🎨 **HTML & CSS** | ![85%](https://progress-bar.dev/85/?title=85%&width=200&color=4CAF50) | Responsive design, animations, accessibility |
+| 💛 **JavaScript** | ![80%](https://progress-bar.dev/80/?title=80%&width=200&color=FFD700) | React & interactive web apps |
+| 📘 **Machine Learning** | ![75%](https://progress-bar.dev/75/?title=75%&width=200&color=2196F3) | Model optimization, MLOps |
+| ⚙️ **DevOps & Cloud** | ![70%](https://progress-bar.dev/70/?title=70%&width=200&color=FF9800) | CI/CD pipelines, Docker, Render/Cloud deployment |
+| 🔧 **C & C++** | ![60%](https://progress-bar.dev/60/?title=60%&width=200&color=9C27B0) | DSA & performance-oriented programming |
 
-**🎨 HTML & CSS (85%)**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
+---
 
-**💛 JavaScript (80%)**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
-
-**📘 ML Libraries (75%)**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-
-**⚙️ DevOps Tools (70%)**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
-
-**🔧 C & C++ (60%)**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-
-
-#### 🚀 Tools & Frameworks
+### 🚀 Tools & Frameworks
 
 **Web & App:** Flask | FastAPI | Streamlit | React Native  
 **ML & AI:** NumPy | Pandas | Scikit-learn | TensorFlow  
@@ -49,8 +40,6 @@
 **Extras:** BERT | Tesseract OCR | Lottie | Tkinter GUI  
 
 ---
-
-### 🔥 Animated Skills Overview
 
 ## 🔥 Animated Skills Overview
 
@@ -64,19 +53,22 @@
 
 ---
 
-### 🧠 My Top AI & ML Projects
+## 🧠 My Top AI & ML Projects
 
-| 🚀 Project Name             | 🔍 Description                                      |
-|----------------------------|-----------------------------------------------------|
-| Plagiarism Detector        | Real-time semantic comparison using BERT + Flask    |
-| Bruxism Detection (EMG)    | ML-based detection using RMS, Zero Crossings, Variance |
-| AI Expense Tracker         | OCR with Tamil + English in React Native            |
-| RNA Structure Predictor    | Web + Tkinter with Nussinov Algorithm Visualization |
-| Restaurant QR Menu         | Fully animated menu with HTML/CSS/JS                |
+| 🚀 **Project Name** | 🔍 **Description** |
+|--------------------|--------------------|
+| **Finze** | AI-powered personal finance management app, built with React Native + Expo |
+| **RNA-Structure-Prediction-App** | Predicts RNA secondary structure using Nussinov algorithm, web + GUI interface |
+| **Plagiarism Detector** | Real-time semantic similarity detection with BERT + Flask |
+| **Bruxism Detection (EMG)** | Detects bruxism using EMG data with ML feature extraction |
+| **AI Expense Tracker** | OCR-based multilingual (Tamil + English) expense logging |
+| **Restaurant QR Menu** | Fully animated restaurant menu built with HTML/CSS/JS |
+| **Venket-Enterprises** | HTML/CSS-based professional company website |
+| **Travel-Website** | Travel-themed website showcasing destinations |
 
 ---
 
-### 🌐 Portfolio & Links
+## 🌐 Portfolio & Links
 
 <p align="center">
   <a href="mailto:sachin11jg@gmail.com">
@@ -92,17 +84,17 @@
 
 ---
 
-### 🧠 Currently Focusing On
+## 🧠 Currently Focusing On
 
-- 🧾 OCR + AI on multilingual documents  
-- 📲 Mobile-first AI apps using React Native  
-- 🧬 Bioinformatics Tools (RNA/Genome)  
-- 📦 Dockerizing ML apps for production  
-- 🧠 Deepening expertise in ML, NLP & Transformers  
+- 🧾 **OCR + AI** on multilingual documents  
+- 📲 **Mobile-first AI apps** using React Native  
+- 🧬 **Bioinformatics Tools** (RNA/Genome)  
+- 📦 **Dockerizing ML apps** for production  
+- 🧠 Deepening expertise in **ML, NLP & Transformers**  
 
 ---
 
-### 🎉 Extra Goodies
+## 🎉 Extra Goodies
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin12054&theme=tokyonight" />
@@ -111,5 +103,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Engineer+by+Mind+🧠;Creator+by+Heart+❤️;Learner+for+Life+📚" />
 </p>
-
-
