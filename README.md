@@ -23,12 +23,13 @@
 
 | **Skill** | **Mastery Level** | **Current Focus** |
 |----------|------------------|------------------|
-| 🐍 **Python** | ![95%](https://progress-bar.dev/95/?title=95%&width=200&color=4CAF50) | Building ML/DL projects & automation tools |
-| 🎨 **HTML & CSS** | ![85%](https://progress-bar.dev/85/?title=85%&width=200&color=4CAF50) | Responsive design, animations, accessibility |
-| 💛 **JavaScript** | ![80%](https://progress-bar.dev/80/?title=80%&width=200&color=FFD700) | React & interactive web apps |
-| 📘 **Machine Learning** | ![75%](https://progress-bar.dev/75/?title=75%&width=200&color=2196F3) | Model optimization, MLOps |
-| ⚙️ **DevOps & Cloud** | ![70%](https://progress-bar.dev/70/?title=70%&width=200&color=FF9800) | CI/CD pipelines, Docker, Render/Cloud deployment |
-| 🔧 **C & C++** | ![60%](https://progress-bar.dev/60/?title=60%&width=200&color=9C27B0) | DSA & performance-oriented programming |
+| 🐍 **Python** | `█████████████████████░` **95%** | Building ML/DL projects & automation tools |
+| 🎨 **HTML & CSS** | `██████████████████░░░` **85%** | Responsive design, animations, accessibility |
+| 💛 **JavaScript** | `████████████████░░░░` **80%** | React & interactive web apps |
+| 📘 **Machine Learning** | `███████████████░░░░` **75%** | Model optimization, MLOps |
+| ⚙️ **DevOps & Cloud** | `█████████████░░░░░░` **70%** | CI/CD pipelines, Docker, Render/Cloud deployment |
+| 🔧 **C & C++** | `███████████░░░░░░░░░` **60%** | DSA & performance-oriented programming |
+
 
 ---
 
